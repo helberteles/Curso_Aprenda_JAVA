@@ -13,7 +13,7 @@ public class Dia1 { //class Main
         System.out.print("Digite o primeiro numero: "); //statements
         numero2 = numero2Scanner.nextDouble();
         resultado = numero1 + numero2;
-        System.out.print("O resultado e: " + resultado);
+        System.out.print("O resultado é: " + resultado);
 
     }
 }
